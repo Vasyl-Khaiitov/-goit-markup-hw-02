@@ -98,7 +98,7 @@ button {
 
 .hero-button:hover,
 .hero-button:focus {
-    color: #404BBF;
+  background-color: #404BBF;
 }
 
 /* #endregion */
@@ -141,11 +141,11 @@ button {
         color: #2e2f42;
 }
 
-.team-list {
+.team-list {}
+
+.team-list-item {
     background-color: #FFFFFF;
 }
-
-.team-list-item {}
 
 .team-user {}
 
